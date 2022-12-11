@@ -1,5 +1,7 @@
 ## Hi there, I'm [Anzhelika Sokolova](https://linkedin.com/in/sokolang/)🙋🏼‍♀️ Welcome to my Github account!
 
+![](https://komarev.com/ghpvc/?username=Sokolang)
+
 📱 I'm iOS Developer. 
 
 💻 I love everything about technology, and I'm keen on developing software.
