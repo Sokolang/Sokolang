@@ -13,7 +13,7 @@
 
 - [LinkedIn](https://linkedin.com/in/sokolang/)
 - [Instagram](https://instagram.com/sokolang/)
-- [Email](mailto:sokolang.developer@gmail.com)
+- [Email: sokolang.developer@gmail.com](mailto:sokolang.developer@gmail.com)
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sokolang) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sokolang&layout=compact)
