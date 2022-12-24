@@ -1,6 +1,6 @@
-## Hi there, I'm [Anzhelika Sokolova](https://linkedin.com/in/sokolang/)🙋🏼‍♀️ 
-
 ![](https://komarev.com/ghpvc/?username=Sokolang)
+
+## Hi there, I'm [Anzhelika Sokolova](https://linkedin.com/in/sokolang/)🙋🏼‍♀️ 
 
 ## I'm iOS Developer and a certified PMP with experience in ICT Business Analysis
 
