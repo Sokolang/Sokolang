@@ -7,7 +7,6 @@
 - 💻 I love everything about technology, and I'm keen on developing software.
 - 🎓 I'm constantly learning new things
 - I speak 🇬🇧 English, 🇩🇪 German, 🇸🇪 Swedish and 🇷🇺 Russian
-- 📍 Kaliningrad, Russia
 
 ## Connect with me:
 
