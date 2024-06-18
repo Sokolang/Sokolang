@@ -6,7 +6,7 @@
 
 - 💻 I love everything about technology, and I'm keen on developing software.
 - 🎓 I'm constantly learning new things
-- I speak 🇬🇧 English, 🇩🇪 German, 🇸🇪 Swedish and 🇷🇺 Russian
+- I speak 🇩🇪 German, 🇬🇧 English and 🇷🇺 Russian
 
 ## Connect with me:
 
